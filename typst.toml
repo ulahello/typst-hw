@@ -1,0 +1,7 @@
+[package]
+name = "fmt"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Ula Shipman"]
+license = "MIT"
+description = "for formatting homework"
