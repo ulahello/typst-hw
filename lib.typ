@@ -12,7 +12,7 @@
       header: context {
         set text(12pt)
         grid(
-          columns: (1fr, 1fr),
+          columns: (1fr, auto),
           align: (left, right),
           [#name],
           emph[#document.author.map(text).join([ #sym.dot ]) --- #class]
